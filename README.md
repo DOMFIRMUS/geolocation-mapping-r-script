@@ -2,6 +2,7 @@
 
 [![R-version](https://img.shields.io/badge/R-4.0+-blue.svg)](https://www.r-project.org/)
 [![License: CC0](https://img.shields.io/badge/License-CC0_1.0-lightgrey.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.18147414.svg)](https://doi.org/10.5281/zenodo.18147414)
 
 ## 📋 Description
 This repository contains a professional R script designed to generate **multi-scalar location maps**. It automates the creation of high-resolution geographical visualizations, moving from a continental scale down to specific municipal coordinates in **Cabo de Santo Agostinho, Pernambuco, Brazil**.
