@@ -35,4 +35,4 @@ The project utilizes the following R packages:
 **Jean Firmino Cardoso**
 Researcher and MSc Candidate in Energetic and Nuclear Technologies at the Federal University of Pernambuco (UFPE).
 * [ORCID](https://orcid.org/0000-0001-6092-713X)
-* [ResearchGate](https://www.researchgate.net/profile/Jean-Cardoso)
+* [ResearchGate](https://www.researchgate.net/profile/Jean-Cardoso-6?ev=hdr_xprf)
